@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Deepak Shop</string>
+    <string name="shop_name">Deepak Book Stall</string>
+    <string name="adress" >
+        Villege - Bhuili khas \n District - Mirzapur (Uttar Pradesh) \n Pin - 231302
+    </string>
+    <string name="contact">+918299839817</string>
+    <string name="discription">This is small shop in my village. Here we can find all kind of stationary product.  </string>
+    <string name="time"> 09AM - 10PM</string>
+    <!-- <string name="adres">Villege - Bhuili khas</string>
+     <string name="district"> District - Mirzapur (Uttar Pradesh)</string>
+     <string name="pin">Pin - 231302</string>-->
+</resources>
